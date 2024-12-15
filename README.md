@@ -2,6 +2,6 @@
 ```json
 #erdemkok {
   "company": "Ordulu Technology",
-  "position": "Computer Vision and AI",
+  "position": "Expert Computer Vision and AI Engineer",
   "focusing_on": "Computer Vision and AI"
 }
